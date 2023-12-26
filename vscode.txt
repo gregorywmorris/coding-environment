@@ -5,6 +5,7 @@ code --install-extension - github.vscode-github-actions
 code --install-extension - GraysonStream.airflow-templates
 code --install-extension - mathematic.vscode-pdf
 code --install-extension - ms-azuretools.vscode-docker
+code --install-extension - ms-python.pylint
 code --install-extension - ms-python.python
 code --install-extension - ms-python.vscode-pylance
 code --install-extension - ms-toolsai.jupyter
