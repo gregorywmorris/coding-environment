@@ -1,23 +1,32 @@
-code --install-extension - Extensions installed on WSL: Ubuntu:
-code --install-extension - Docter60.vscode-terminal-for-ubuntu
-code --install-extension - esbenp.prettier-vscode
-code --install-extension - github.vscode-github-actions
-code --install-extension - GraysonStream.airflow-templates
-code --install-extension - mathematic.vscode-pdf
-code --install-extension - ms-azuretools.vscode-docker
-code --install-extension - ms-python.pylint
-code --install-extension - ms-python.python
-code --install-extension - ms-python.vscode-pylance
-code --install-extension - ms-toolsai.jupyter
-code --install-extension - ms-toolsai.jupyter-keymap
-code --install-extension - ms-toolsai.jupyter-renderers
-code --install-extension - ms-toolsai.vscode-jupyter-cell-tags
-code --install-extension - ms-toolsai.vscode-jupyter-slideshow
-code --install-extension - ms-vscode.cmake-tools
-code --install-extension - oderwat.indent-rainbow
-code --install-extension - shakram02.bash-beautify
-code --install-extension - streetsidesoftware.code-spell-checker
-code --install-extension - twxs.cmake
-code --install-extension - VisualStudioExptTeam.intellicode-api-usage-examples
-code --install-extension - VisualStudioExptTeam.vscodeintellicode
-code --install-extension - znck.grammarly
+alssys.interactive-scala
+davidanson.vscode-markdownlint
+docter60.vscode-terminal-for-ubuntu
+esbenp.prettier-vscode
+github.vscode-github-actions
+github.vscode-pull-request-github
+graysonstream.airflow-templates
+hashicorp.terraform
+lampepfl.dotty-syntax
+mathematic.vscode-pdf
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.pylint
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+ms-vscode.cmake-tools
+ms-vscode.makefile-tools
+oderwat.indent-rainbow
+scala-lang.scala
+scalameta.metals
+shakram02.bash-beautify
+streetsidesoftware.code-spell-checker
+trunk.io
+twxs.cmake
+visualstudioexptteam.intellicode-api-usage-examples
+visualstudioexptteam.vscodeintellicode
+znck.grammarly
