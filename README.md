@@ -8,4 +8,4 @@ Coding environment settings and helper files.
 
 [Manual Export](https://stackoverflow.com/questions/35773299/how-can-you-export-the-visual-studio-code-extension-list)
 
-* `code --list-extensions | xargs -L 1 echo code --install-extension > vscode_extentions.txt`
+* `code --list-extensions | xargs -L 1 echo code --install-extension > vscode_extensions.txt`
