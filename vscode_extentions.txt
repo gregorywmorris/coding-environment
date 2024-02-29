@@ -1,11 +1,21 @@
+Extensions installed on WSL: Ubuntu:
+alefragnani.project-manager
 alssys.interactive-scala
+codezombiech.gitignore
 davidanson.vscode-markdownlint
 docter60.vscode-terminal-for-ubuntu
+donjayamanne.git-extension-pack
+donjayamanne.githistory
+eamodio.gitlens
 esbenp.prettier-vscode
 github.vscode-github-actions
 github.vscode-pull-request-github
+grapecity.gc-excelviewer
 graysonstream.airflow-templates
 hashicorp.terraform
+innoverio.vscode-dbt-power-user
+irongeek.vscode-env
+janisdd.vscode-edit-csv
 lampepfl.dotty-syntax
 mathematic.vscode-pdf
 ms-azuretools.vscode-docker
@@ -21,6 +31,7 @@ ms-toolsai.vscode-jupyter-slideshow
 ms-vscode.cmake-tools
 ms-vscode.makefile-tools
 oderwat.indent-rainbow
+samuelcolvin.jinjahtml
 scala-lang.scala
 scalameta.metals
 shakram02.bash-beautify
@@ -29,4 +40,5 @@ trunk.io
 twxs.cmake
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
+ziyasal.vscode-open-in-github
 znck.grammarly
