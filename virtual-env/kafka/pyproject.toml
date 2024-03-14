@@ -1,0 +1,25 @@
+[project]
+name = "kafka"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Gregory Morris", email = "gwm1980@gmail.com"},
+]
+dependencies = [
+    "kafka-python>=2.0.2",
+    "pandas>=2.2.1",
+    "s3fs>=2024.2.0",
+    "python-dotenv>=1.0.1",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "NONE"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "ipykernel>=6.29.3",
+]
