@@ -1,3 +1,5 @@
+source: https://medium.com/machine-words/writing-technical-design-docs-revisited-850d36570ec
+
 Technical Design Document Template
 1. Description of the Problem
 Give a brief (one paragraph) summary of the problem you are solving. Work to keep away from technical detail. Try instead to talk about this in terms of the problem as it pertains to your customers. At the end of reading this document, any team member should be able to understand the problem, how you intend to solve it, and who are the stakeholders.

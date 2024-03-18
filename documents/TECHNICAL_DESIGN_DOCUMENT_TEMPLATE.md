@@ -1,3 +1,5 @@
+[Source](https://medium.com/machine-words/writing-technical-design-docs-revisited-850d36570ec)
+
 # Technical Design Document Template
 
 ## 1. Description of the Problem
