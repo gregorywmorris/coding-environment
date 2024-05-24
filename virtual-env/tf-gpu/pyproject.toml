@@ -1,0 +1,24 @@
+[project]
+name = "tf-gpu"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "gregorywmorris", email = "gwm1980@gmail.com"},
+]
+dependencies = [
+    "tensorflow[and-cuda]>=2.15.1",
+    "ipykernel>=6.29.4",
+    "matplotlib>=3.8.4",
+    "scikit-learn>=1.4.2",
+    "tensorflow-datasets>=4.9.4",
+    "imbalanced-learn>=0.12.2",
+    "pandas>=2.2.2",
+    "tensorflow-hub>=0.16.1",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
