@@ -20,6 +20,9 @@ app = FastAPI()
 pickle_in = open("classifier.pkl", "rb")
 classifier = pickle.load(pickle_in)
 
+# Mount static files
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
 # 3. Custom OpenAPI Schema
 def custom_openapi():
     if app.openapi_schema:
@@ -27,7 +30,7 @@ def custom_openapi():
     openapi_schema = get_openapi(
         title="Customized FastAPI",
         version="1.0.0",
-        description='<img src="/static/images/swagger.png" style="width: 200px;" alt="Swagger Image"/> \
+        description='<img src="/static/images/swagger.png" alt="Swagger Image"/> \
             <p><strong>This is a customized FastAPI application with a personalized Swagger UI.</strong></p>',
         routes=app.routes,
     )
