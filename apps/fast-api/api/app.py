@@ -30,7 +30,7 @@ def custom_openapi():
     openapi_schema = get_openapi(
         title="Customized FastAPI",
         version="1.0.0",
-        description='<img src="/static/images/swagger.png" alt="Swagger Image"/> \
+        description='<img src="/static/images/FastAPI.jpg" alt="Swagger Image"/> \
             <p><strong>This is a customized FastAPI application with a personalized Swagger UI.</strong></p>',
         routes=app.routes,
     )
